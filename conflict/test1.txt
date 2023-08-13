@@ -1,1 +1,2 @@
-file mới tạo để nó khác với nhánh kia
+file mới tạo để khác với nhánh kia
+hy vọng sexcos conflict
