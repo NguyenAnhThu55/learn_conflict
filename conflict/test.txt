@@ -1,1 +1,2 @@
-abcd
+Xuống dòng CSS như thế nào? Cách dùng CSS xuống dòng văn bản rất đơn giản bằng các thuộc tính xử lý text.
+ Ngoài ra, bạn còn có nhiều thuộc tính văn bản thú vị khác trong CSS nên sử dụng khi phát triển web.
